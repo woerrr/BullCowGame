@@ -2,7 +2,7 @@
 #include <time.h>
 #include <map>
 #define Tmap std::map
-
+//change
 using int32 = int;
 
 int FBullCowGame::GetMaxTries() const
